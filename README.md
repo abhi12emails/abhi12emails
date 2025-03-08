@@ -2,6 +2,10 @@
 📚 I’m currently a Master's Student @ VIT Chennai<br>👯 I’m looking to collaborate on Guassian Splatting and Nerf's<br>🌱 I’m currently learning so lets talk!<br>⚡ Fun fact "I love cloud watching"
 
 
+![giphy](https://github.com/user-attachments/assets/0df2bf82-094f-46af-832f-d00e8ec1b15f)
+
+
+
 
 
 # 💻 Tech Stack:
