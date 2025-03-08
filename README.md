@@ -1,12 +1,7 @@
 # 😎 About Me:
 📚 I’m currently a Master's Student @ VIT Chennai<br>👯 I’m looking to collaborate on Guassian Splatting and Nerf's<br>🌱 I’m currently learning so lets talk!<br>⚡ Fun fact "I love cloud watching"
 
-
-![giphy](https://github.com/user-attachments/assets/0df2bf82-094f-46af-832f-d00e8ec1b15f)
-
-
-
-
+<img src="https://github.com/user-attachments/assets/0df2bf82-094f-46af-832f-d00e8ec1b15f" width="300" height="300">
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
